@@ -1,0 +1,5 @@
+
+Query Log: Intrusion Prevention System			Autoscroll	
+Reload
+/var/log/ips/2016/01/ips-2016-01-27.log.gz:2016:01:27-12:20:16 fv0 snort[4642]: id="2101" severity="warn" sys="SecureNet" sub="ips" name="Intrusion protection alert" action="drop" reason="INDICATOR-COMPROMISE Suspicious .pw dns query" group="241" srcip="172.16.1.95" dstip="172.16.1.254" proto="17" srcport="33110" dstport="53" sid="28039" class="A Network Trojan was Detected" priority="1" generator="1" msgid="0"
+/var/log/ips/2016/01/ips-2016-01-27.log.gz:2016:01:27-12:20:27 fv0 snort[4642]: id="2101" severity="warn" sys="SecureNet" sub="ips" name="Intrusion protection alert" action="drop" reason="INDICATOR-COMPROMISE Suspicious .pw dns query" group="241" srcip="172.16.1.95" dstip="172.16.1.254" proto="17" srcport="15261" dstport="53" sid="28039" class="A Network Trojan was Detected" priority="1" generator="1" msgid="0"
